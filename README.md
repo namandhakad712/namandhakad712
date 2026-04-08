@@ -75,7 +75,7 @@ src="https://render.gitanimals.org/farms/Namandhakad712"
 ### 💭 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+![](https://hit.yhype.me/github/profile?account_id=135541641)
 </div>
 
 
