@@ -9,11 +9,7 @@
 ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 </pre>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Vue+%7C+React+%7C+TypeScript;Building+Cool+Stuff+%F0%9F%9A%80)](https://naman.is-a.dev/)
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-3B82F6?style=plastic&logoColor=white)](https://naman.is-a.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/namandhakad/)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Welcome+to+My+Github+Profile.;Full+Stack+Developer;Enthusiastic+Human;Building+Cool+Stuff+%F0%9F%9A%80)](https://naman.is-a.dev/)
 </div>
 
 ---
@@ -22,7 +18,7 @@
 
 ### 🚀 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=vue,react,js,ts,nodejs,php,java,html,css,tailwind,git,mysql,vscode&theme=dark)](https://naman.is-a.dev/)
+[![My Skills](https://skillicons.dev/icons?i=nuxtjs,js,ts,mysql,nextjs,vercel,appwrite,gcp,tailwind,git,react,java,html,css,vscode&theme=dark)](https://naman.is-a.dev/)
 
 </div>
 
@@ -44,9 +40,10 @@
 
 <div align="center">
 
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=namandhakad712&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+### 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙿𝚎𝚝𝚜
+<img
+src="https://render.gitanimals.org/farms/Namandhakad712"
+/>
 
 </div>
 
