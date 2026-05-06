@@ -1,5 +1,28 @@
 <div align="center">
 
+# 😔 System: Archived 
+**Timestamp: May 2026 | Location: India**
+
+> *"A Hobbyist died successfully. I will remember this repo and profile as a key timestamp in my memory—proof that, once in my life, I did something entirely for myself."*
+
+</div>
+
+---
+
+### 🗄️ The Archive
+
+Thank you for reaching here and giving a few seconds to read this message.
+
+This profile stands as a static archive of my time as a developer. Before the academic system required a different path, this space was where my passion lived. I built full-stack applications, integrated AI workflows, and wrote code because I loved the architecture of it. 
+
+The commits have stopped, but the proof of work remains. 
+
+
+*To anyone reading the code left behind in these repositories: Keep building.*
+
+*- Naman*
+<div align="center">
+
 <pre>
 ███╗   ██╗ █████╗ ███╗   ███╗ █████╗ ███╗   ██╗
 ████╗  ██║██╔══██╗████╗ ████║██╔══██╗████╗  ██║
@@ -16,7 +39,7 @@
 
 <div align="center">
 
-### 🚀 Tech Stack
+### 🚀 Tech Stack was
 
 [![My Skills](https://skillicons.dev/icons?i=nuxtjs,js,ts,mysql,nextjs,vercel,appwrite,gcp,tailwind,git,react,java,html,css,vscode&theme=dark)](https://naman.is-a.dev/)
 
@@ -26,7 +49,7 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats were
 
 <!-- Github Widgetbox - Profile statistics widget -->
 ![](https://github-widgetbox.vercel.app/api/profile?username=namandhakad712&data=followers,repositories,stars,commits&theme=nautilus)
@@ -40,7 +63,7 @@
 
 <div align="center">
 
-### 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙿𝚎𝚝𝚜
+### 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙿𝚎𝚝𝚜 strangled 
 <img
 src="https://render.gitanimals.org/farms/Namandhakad712"
 />
@@ -62,7 +85,7 @@ src="https://render.gitanimals.org/farms/Namandhakad712"
 
 <div align="center">
 
-### 📈 Activity Graph
+### 📈 Activity Graph (dies soon)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=namandhakad712&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF)
 
@@ -72,10 +95,6 @@ src="https://render.gitanimals.org/farms/Namandhakad712"
 
 <div align="center">
 
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-![](https://hit.yhype.me/github/profile?account_id=135541641)
 </div>
 
 
